@@ -1,3 +1,4 @@
+import { Comment } from "./Comment";
 import styles from "./Posts.module.scss";
 
 export function Posts() {
@@ -48,6 +49,12 @@ export function Posts() {
           <button type="submit">Publicar</button>
         </footer>
       </form>
+
+      <div className={styles.commentList}>
+        <Comment />
+        <Comment />
+        <Comment />
+      </div>
     </article>
   );
 }
