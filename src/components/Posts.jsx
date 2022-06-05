@@ -30,11 +30,12 @@ export function Posts() {
         </p>
 
         <p>
-          👉 <a href="#">super.proj/megaproj</a>
+          <a href="#">super.proj/megaproj</a>
         </p>
 
         <p>
-          <a href="#">#novoprojeto #ignite #decolar</a>
+          <a href="#">#novoprojeto</a> <a href="#">#ignite</a>{" "}
+          <a href="#">#decolar</a>{" "}
         </p>
       </div>
     </article>
