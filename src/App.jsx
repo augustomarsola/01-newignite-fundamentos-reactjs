@@ -33,7 +33,7 @@ const posts = [
       role: "CTO @Rocketseat",
     },
     content: [
-      { type: "paragraph", content: "Fala pessoal 👏" },
+      { type: "paragraph", content: "Fala Galera 🐱‍🏍" },
       {
         type: "paragraph",
         content:
@@ -41,7 +41,7 @@ const posts = [
       },
       { type: "link", content: "super.proj/megaproj" },
     ],
-    publishedAt: new Date("2022-05-07 08:10:10"),
+    publishedAt: new Date("2022-06-07 06:10:10"),
   },
 ];
 
